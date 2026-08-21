@@ -15,12 +15,12 @@
 
 <div>
 <img align="center" alt="intellij" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
-<img align="center" alt="intellij" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+<img align="center" alt="vscode" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 
 ## Ambientes
 
 <div>
-<img align="center" alt="ubuntu" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+<img align="center" alt="ubuntu" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
 <img align="center" alt="windows11" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 </div>
