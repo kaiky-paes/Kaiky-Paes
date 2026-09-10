@@ -1,6 +1,7 @@
 # Bem-vindo(a) ao meu perfil, eu sou Kaiky Paes.
 
 🎓 Cursando Técnico em Desenvolvimento de Sistemas
+<hr>
 
 ## Linguagens e Tecnologias
 
@@ -10,6 +11,7 @@
   <img align="center" alt="html5" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="css3" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
+<hr>
 
 ## Ferramentas
 
@@ -18,6 +20,7 @@
   <img align="center" alt="intellij" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
   <img align="center" alt="vscode" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
+<hr>
 
 ## Ambientes
 
@@ -25,8 +28,9 @@
   <img align="center" alt="ubuntu" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="windows11" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 </div>
+<hr>
 
 ## Contatos
 
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contato.kaikypaes@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiky-sousa-paes-438a392b3/)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contato.kaikypaes@gmail.com)
